@@ -516,3 +516,24 @@ The website allows customers to learn about the business, browse products, view 
 
 The multi-page structure also makes the website easier to navigate because each major section has its own dedicated page.
 
+### What you now have
+
+This version is **not a single scrolling website**. It is a proper multi-page website:
+
+**Navigation:**
+
+`Home → About Us → Products → Gallery → Order Now`
+
+**Products dropdown:**
+
+`Products → All Products → Cakes → Cupcakes → Cookies → Brownies`
+
+**Buttons also connect the pages**, for example:
+
+`Home → View Cakes → Cakes → Enquire About This Cake → Contact`
+
+and:
+
+`Gallery → Make An Enquiry → Contact`
+
+So when you open `index.html` in your browser, you can actually click around the website and move to **separate HTML pages**, rather than simply scrolling down one page.
