@@ -270,8 +270,9 @@ Tessas-Baking-Website/
     ├── brownies.jpg
     ├── chocolate-cake.jpg
     └── vanilla-cupcakes.jpg
-
-Technologies Used
+    |
+ 
+Technologies Used 
 HTML5
 
 HTML is used to create the structure and content of the website.
